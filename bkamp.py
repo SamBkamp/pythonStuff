@@ -19,3 +19,8 @@ def arrayChoice(n):
     elif n == 2 or n == "full" or n =="s":
         array = ["0","1","2","3","4","5","6","7","8","9","a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","e","w","x","y","z","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","E","W","X","Y","Z"]
     return array 
+
+def commonPasswords:
+    array = ["password", "123456", "123456", "1234", "qwerty", "12345", "dragon", "pussy", "baseball", "football", "letmein", "monkey", "696969", "abc123", "mustang", "michael", "shadow", "master", "jennifer", "111111", "2000", "jordan", "superman", "harley", "1234567", "fuckme", "hunter", "fuckyou", "trustno1"]
+    return array
+    #source: https://www.passwordrandom.com/most-popular-passwords
